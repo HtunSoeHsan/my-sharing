@@ -1,5 +1,9 @@
 # Multi-Tenant Architecture
 
+## Overall
+
+![Database Tenants](https://i.postimg.cc/VLjVRn21/multi-tenant.jpg)
+
 ## 1. single database, single schema
 
 ![Database Tenants](https://i.postimg.cc/Y9kLBcbh/singal-db-singal-schema.png)
@@ -11,10 +15,6 @@
 ## 3. multiple databases
 
 ![Database Tenants](https://i.postimg.cc/nrp42j6S/singal-databases.png)
-
-## Overall
-
-![Database Tenants](https://i.postimg.cc/VLjVRn21/multi-tenant.jpg)
 
 ### 2. Multi-Tenant Database with Multiple Schemas
 
