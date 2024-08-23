@@ -1,6 +1,6 @@
 # Multi-Tenant Architecture
-## database -> floor plan
-## schema -> house
+## database -> house
+## schema -> floor plan
 ## table -> room
 ## Overall
 
