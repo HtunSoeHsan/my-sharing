@@ -1,5 +1,5 @@
 # Multi-Tenant Architecture
-## db server -> wall
+## db server -> ward
 ## database -> house
 ## schema -> floor plan
 ## table -> room
