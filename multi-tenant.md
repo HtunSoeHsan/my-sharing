@@ -1,5 +1,7 @@
 # Multi-Tenant Architecture
-
+## database -> floor plan
+## schema -> house
+## table -> room
 ## Overall
 
 ![Database Tenants](https://i.postimg.cc/VLjVRn21/multi-tenant.jpg)
