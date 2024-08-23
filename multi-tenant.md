@@ -106,4 +106,4 @@ This guide covers the basics of creating and managing multiple schemas in a sing
 
    **Reference:**
 
-Original article available at: [Multi-Tenant Data Architecture](https://web.archive.org/web/20170530080303/https://msdn.microsoft.com/en-us/library/aa479086.aspx)
+Original article available at: [https://web.archive.org/web/20170530080303/https://msdn.microsoft.com/en-us/library/aa479086.aspx](https://web.archive.org/web/20170530080303/https://msdn.microsoft.com/en-us/library/aa479086.aspx)
